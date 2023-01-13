@@ -8,8 +8,6 @@
 2. Use ARM templates to deploy Terraform configuration file
 3. Use Terraform to manage ARM template resources
 
-<br/>
-
 ##### ARM template in YAML
 ```
   # Define template schema and version
